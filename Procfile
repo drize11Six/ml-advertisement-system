@@ -1,0 +1,1 @@
+web gunicorn mlads.wsgi:apllication --log-file -
